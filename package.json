@@ -1,0 +1,14 @@
+{
+  "name": "yrhuh_2401",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yrhuh_2401": "^1.1.0"
+  }
+}
